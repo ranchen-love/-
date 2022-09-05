@@ -1,19 +1,19 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxd2f38dca7b355bce",
+"app_id": "wxca107aa4047d4568",
 # 公众号appSecret
-"app_secret": "dc1e7016a9c749dfd55dd23edb8d998d",
+"app_secret": "b69f58fc90319d140f59a95afc4675ef",
 # 模板消息id
-"template_id": "8TeT-Eh1qh0gM6ENFouNX-xeAehnKJJpwpVGZwpFOf4",
+"template_id": "eCsRZbzkFEfbAQGUWHgOCY3gQOe6BS8APskKXXel09c",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oam715uRfbT347K2Na7EDcA2WRdc"],
+"user": ["oiBtR6WCMMRfPDeabeAm7fKCM0Pk"],
 
 # 信息配置
 # 所在省份
-"province": "重庆",
+"province": "江苏",
 # 所在城市
-"city": "重庆",
+"city": "南京",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "宝宝", "birthday": "r2000-06-01"},
 # 生日2
